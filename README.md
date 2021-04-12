@@ -1,9 +1,4 @@
-#  Geothermal drilling R.O.P using machine learning and deep learning
+# Numerical-modeling-with-python
 
-The drilling dataset used is from Utah FORGE named Well 58-32 (previously labeled MU-ESW1), which was drilled near Milford Utah, to confirm geothermal reservoir characteristics 
-
-Data was preprocessed for machine learning and deep learning predictions using :
-
--Random forest regreesion
--Support Vector machine regression
--Artificial neural network
+Using python's libraries such as NumPy, Matplotlib, Scipy, and Mayavi for advanced 3D visualization, we were able to perform numerical modeling for engineering tasks, using the finite-difference discretization method. 
+-In the first example we consider it a cubic meter of water, linked to a fixed source of temperature, and compute after a time step of choosing, the heat conduction in water using the parabolic P.D.E of heat equation.
